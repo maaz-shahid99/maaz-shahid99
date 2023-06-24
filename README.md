@@ -21,7 +21,7 @@
 [![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk)](https://github.com/maaz-shahid99)
 [![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/maaz-shahid99)
 [![Hyper](https://img.shields.io/badge/Hyper-E44C30?style=for-the-badge&logo=hyper&logoColor=white)](https://github.com/maaz-shaid99)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/maaz-shahid99)
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/maaz-shahid99)
 
 ### ML/DL
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/maaz-shahid99)
