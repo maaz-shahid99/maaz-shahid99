@@ -42,12 +42,12 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/maaz-shahid99)
 
 ### Cloud
-[![CSS3](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/maaz-shahid99)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/maaz-shahid99)
+[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/maaz-shahid99)
+[![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/maaz-shahid99)
 
 ### OS
-[![AWS](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/maaz-shahid99)
-[![AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/maaz-shahid99)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/)
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
