@@ -45,6 +45,12 @@
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/maaz-shahid99)
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/maaz-shahid99)
 
+### IDE
+[![Visual Studio](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://github.com/maaz-shahid99)
+[![Py Charm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)(https://github.com/maaz-shahid99)
+[![Android Studio](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)(https://github.com/maaz-shahid99)
+[![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)(https://github.com/maaz-shahid99)
+
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/maaz-shahid99)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/)
