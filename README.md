@@ -36,7 +36,7 @@
 [![RASPBERRY](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)](https://github.com/maaz-shahid99)
 
 ### Technologies & Frameworks
-[![DJANGO](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/maaz-shahid99)
+[![DJANGO](https://img.shields.io/badge/django-4EAA25?style=for-the-badge&logo=django)](https://github.com/maaz-shahid99)
 [![FLUTTER](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/maaz-shahid99)
 [![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]([https://hub.docker.com/u/maaz-shahid](https://github.com/maaz-shahid99))
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/maaz-shahid99)
