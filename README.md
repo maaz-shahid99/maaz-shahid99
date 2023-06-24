@@ -37,7 +37,7 @@
 
 ### Technologies & Frameworks
 [![DJANGO](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/maaz-shahid99)
-[![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/maaz-shahid99)
+[![FLUTTER](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/maaz-shahid99)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)]([https://hub.docker.com/u/maaz-shahid](https://github.com/maaz-shahid99))
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/maaz-shahid99)
 
