@@ -7,7 +7,7 @@
         Currently learning to walk in ML/DL without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="www.linkedin.com/in/maaz-shahid-96998720a/">
+    <a href="https://www.linkedin.com/in/maaz-shahid-96998720a/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:maazshahid929@gmail.com">
